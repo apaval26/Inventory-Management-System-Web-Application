@@ -3,6 +3,6 @@ This repository contains all the front end and backend resources required to run
 
 # Front End Technologies Used: HTML,CSS, JavaScript,Bootstrap
 
-# Back End Technologies Used: Python, Django, SQLite
+#Back End Technologies Used: Python, Django, SQLite
 
 
